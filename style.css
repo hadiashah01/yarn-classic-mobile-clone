@@ -93,13 +93,24 @@
     max-width: 28px;
     height: 28px;
     }
-    
+
     .hero__actions {
     min-width: 200px;
     height: 36px;
     margin-bottom: 40px;
     }
 
+    .hero__github-btn {
+    width: 75px;
+    height: 30px;
+    }
+
+    .hero__star-count {
+    min-width: 70px;
+    height: 30px;
+    }
+
+    
 
 
 
