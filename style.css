@@ -35,5 +35,10 @@
     border-radius: 15%;
     }
 
+    .navbar__logo {
+    min-width: 90px;
+    height: 40px;
+    }
+
 
 
