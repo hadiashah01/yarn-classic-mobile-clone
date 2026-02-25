@@ -14,3 +14,11 @@
     text-decoration: none;
         }
 
+    .header__announcement {
+    height: 120px;
+    text-align: center;
+    padding-top: 10px; 
+    color: white;
+}
+
+
