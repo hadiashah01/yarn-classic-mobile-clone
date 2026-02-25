@@ -110,7 +110,12 @@
     height: 30px;
     }
 
-    
+    .hero__version-link a {
+    text-decoration: none;
+    color: white;
+    }
+
+
 
 
 
