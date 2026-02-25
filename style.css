@@ -135,6 +135,16 @@
     .section_block h2 {
     margin-top: 10px;
     }
+    .cta__features {
+    padding-inline: 15px;
+    }
 
-
+    .block {
+    padding-inline: 15px;
+    margin-block: 10px;
+    max-width: 300px;
+    min-width: 250px;
+    padding: 10px;
+    }
+        
 
