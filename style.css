@@ -167,3 +167,22 @@
     border-color: #1476a2;
     border-radius: .3rem;
     }
+
+    footer {
+    min-height: 200px;
+    padding-inline: 15px;
+    padding-bottom: 0;
+    }
+
+    .footer__right {
+    margin-top: 16px;
+    padding-top: 16px;
+    }
+
+    .footer__item-text {
+    color: #5a5a5a;
+    }
+
+    .footer__item {
+    color: #117cad;
+        
