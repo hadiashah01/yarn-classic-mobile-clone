@@ -123,6 +123,18 @@
     margin-block: 40px;
     }
 
+    .section img {
+    margin-block: 20px;
+    max-width: 250px;
+    object-fit: contain;
+    }
+    .section_block {
+    margin-top: 20px;
+    padding: 25px;
+    }
+    .section_block h2 {
+    margin-top: 10px;
+    }
 
 
 
