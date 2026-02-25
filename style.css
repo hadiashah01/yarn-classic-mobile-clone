@@ -88,3 +88,18 @@
     .hero__heading {
     margin-bottom: 30px;
     }
+
+    .hero img {
+    max-width: 28px;
+    height: 28px;
+    }
+    
+    .hero__actions {
+    min-width: 200px;
+    height: 36px;
+    margin-bottom: 40px;
+    }
+
+
+
+
