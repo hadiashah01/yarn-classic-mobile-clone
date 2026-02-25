@@ -42,10 +42,18 @@
     
     .logo-primary {
     fill: #2c8aa6;
-}
-
-.logo-secondary {
+    }
+    .logo-secondary {
     fill: white;
-}
+    }
+
+    form {
+    background-color: white;
+    }
 
 
+    .search__input {
+    height: 32px;
+    min-width: 264px;
+    border: none;
+    }
