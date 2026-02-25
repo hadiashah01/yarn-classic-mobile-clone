@@ -19,6 +19,13 @@
     text-align: center;
     padding-top: 10px; 
     color: white;
+    }
+
+    nav {
+    height: 56px;
+    padding-block: 8px;
+    padding-inline: 16px;
 }
+
 
 
