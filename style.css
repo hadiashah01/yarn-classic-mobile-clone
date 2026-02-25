@@ -58,7 +58,7 @@
     border: none;
     }
 
-        .search__icon {
+    .search__icon {
     width: 25px;
     height: 25px;
     padding: 3px;
@@ -74,4 +74,17 @@
     min-width: 32px;
     height: 32px;
     border: none;
+    }
+
+    .hero {
+    min-height: 380px;
+    padding-left: 15px;
+    }
+
+    .hero p {
+    margin-top: 20px;
+    }
+
+    .hero__heading {
+    margin-bottom: 30px;
     }
