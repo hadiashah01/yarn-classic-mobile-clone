@@ -36,5 +36,39 @@ The final result generated with HTML and CSS:
 ![output-image](./images/output4.png)  
 ![output-image](./images/output5.png)  
 ![output-image](./images/output6.png)  
-![output-image](./images/output7.png)  
+![output-image](./images/output7.png) 
 
+## Purpose
+
+The main goal of this project was to recreate a real-world mobile layout while mastering:
+
+- **Responsive Flexbox Layouts**: Structuring nested rows and columns for mobile screens.
+
+- **Content Alignment**: Using `justify-content, align-items`, and spacing for visually balanced sections.
+
+- **Box Model Precision**: Leveraging `margin`, `padding`, and `border` to control spacing around elements.
+
+- **Mobile-first Approach**: Designing for a 375px viewport, ensuring readability and proper stacking of components.
+
+
+## Features Implemented
+
+- **Header & Navigation:** Logo and menu button aligned with Flexbox.
+
+- **Hero Section:** Centralized heading and call-to-action buttons.
+
+- **Feature Highlights:** Multiple content blocks with images, headings, and descriptions.
+
+- **Call-to-Action Section:** Prominent section prompting user interaction.
+
+- **Footer:** Compact footer with aligned text links.
+
+
+## Topics & Techniques
+
+
+- **Nested Flex Containers:** Using `flex` inside other flex containers for complex layouts.
+
+- **Clean & Maintainable CSS:** Utility classes for flex behavior, alignment, and spacing.
+
+- **Mobile-first Design Strategy:** Focused on small screen usability while keeping structure consistent.
