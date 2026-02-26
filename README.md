@@ -72,3 +72,9 @@ The main goal of this project was to recreate a real-world mobile layout while m
 - **Clean & Maintainable CSS:** Utility classes for flex behavior, alignment, and spacing.
 
 - **Mobile-first Design Strategy:** Focused on small screen usability while keeping structure consistent.
+
+### Notes
+
+- Fully HTML + CSS based, no external frameworks or JavaScript.
+
+- Demonstrates practical skills in **responsive design, Flexbox, and mobile UI structuring**.
