@@ -14,6 +14,28 @@
     text-decoration: none;
         }
 
+    .flex-box {
+        display: flex;
+        flex-direction: row;
+    }
+
+    .flex--column {
+        flex-direction: column;
+    }
+    .center {
+        justify-content: center;
+    }
+
+    .flex-wrap {
+        flex-wrap: wrap;
+    }
+    .space-between {
+        justify-content: space-between;
+    }
+    .align--center {
+       align-items:center;
+    }
+    
     .header__announcement {
     height: 120px;
     text-align: center;
@@ -24,7 +46,7 @@
     nav {
     height: 56px;
     padding-block: 8px;
-    padding-inline: 16px;
+    padding-inline: 16px;   
     }
 
     .navbar__toggle {
@@ -136,7 +158,7 @@
     margin-top: 10px;
     }
     .cta__features {
-    padding-inline: 15px;
+        padding-inline: 15px;
     }
 
     .block {
@@ -185,4 +207,5 @@
 
     .footer__item {
     color: #117cad;
+    }
         
