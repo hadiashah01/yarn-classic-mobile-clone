@@ -12,7 +12,7 @@
     <div class="header__announcement u-bg-primary"><a href="https://yarnpkg.com/migration/overview"><b>Important : </b>This document covers Yarn 1 (Classic). <br>For Yarn 2+ docs and migration guides, see yarnpkg.com.</a>
     </div>
 
-    <nav>
+    <nav class="flex-box space-between ">
         <svg class="navbar__logo navbar__logo-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1154.8 518">
             <defs>
                       <path id="main" d="
@@ -31,8 +31,8 @@
             
         <button class="navbar__toggle"> ☰ </button>
     </nav>
-    <div id="search" class="u-bg-primary">
-        <form action="search">
+    <div id="search" class="u-bg-primary center">
+        <form action="search" class="flex-box">
              <button type="submit"> <svg class="search__icon" xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 40 40"><path d="M26.804 29.01c-2.832 2.34-6.465 3.746-10.426 3.746C7.333 32.756 0 25.424 0 16.378 0 7.333 7.333 0 16.378 0c9.046 0 16.378 7.333 16.378 16.378 0 3.96-1.406 7.594-3.746 10.426l10.534 10.534c.607.607.61 1.59-.004 2.202-.61.61-1.597.61-2.202.004L26.804 29.01zm-10.426.627c7.323 0 13.26-5.936 13.26-13.26 0-7.32-5.937-13.257-13.26-13.257C9.056 3.12 3.12 9.056 3.12 16.378c0 7.323 5.936 13.26 13.258 13.26z"></path></svg> </button> 
 
             <input type="search" placeholder="Search packages (i.e. babel, webpack, react…)" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" required="" maxlength="512" class="search__input" value="">  
@@ -42,10 +42,15 @@
    <main>
     <div class="hero u-bg-primary">
         <h1 class="hero__heading">FAST, RELIABLE, AND SECURE DEPENDENCY MANAGEMENT.</h1>
-        <div class="hero__actions">
-             <button class="hero__github-btn">
+
+        <div class="hero__actions flex-box align--center">
+
+             <button class="hero__github-btn flex-box align--center">
+
             <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="">
+
             <span><strong>Star</strong></span>
+
         </button>
         <button class="hero__star-count">
             <span><strong>41537</strong></span>
@@ -57,7 +62,7 @@
 
     </div>
 
-    <div class="section">
+    <div class="section flex-box flex--column">
 
         <div class="section_block">
         <h2>Ultra Fast.</h2>
@@ -67,7 +72,7 @@
         <div class="section__img"><img src="https://classic.yarnpkg.com/assets/feature-speed.png" alt="Watercolour of cat riding a rocketship"></div>
     </div>
 
-    <div class="section">
+    <div class="section flex-box flex--column">
 
         <div class="section_block">
         <h2>Mega Secure.</h2>
@@ -77,7 +82,7 @@
         <div class="section__img"><img src="https://classic.yarnpkg.com/assets/feature-secure.png" alt="Watercolour of cat driving a robot suit"></div>
     </div>
 
-    <div class="section">
+    <div class="section flex-box flex--column">
 
         <div class="section_block">
         <h2>Super Reliable.</h2>
@@ -90,12 +95,12 @@
 
     <section class="cta">
 
-        <div class="cta__header u-bg-primary">
+        <div class="cta__header u-bg-primary flex-box flex--column align--center">
             <h2>WHAT ARE YOU WAITING FOR?</h2>
             <button>Get Started</button>
         </div>
 
-        <div class="cta__features">
+        <div class="cta__features flex-box flex-wrap">
             <div class="block">
                 <h2>Offline Mode</h2>
                 <p>If you've installed a package before, you can install it again without any internet connection</p>
@@ -130,7 +135,7 @@
     
     <hr>
 
-    <footer>
+    <footer class="flex-box flex--column">
         <div class="footer__left">
             <span class="footer__item-text">Yarn</span>
         <br>
