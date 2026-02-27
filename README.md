@@ -26,6 +26,12 @@ yarn-mobile-clone/
 
 [CSS Styles](./style.css): Mobile-first styling with Flexbox for layout, consistent spacing using padding and margins, responsive images, and utility classes for alignment.
 
+## Live Demo
+
+You can view the deployed project here:
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://hadiashah01.github.io/yarn-classic-mobile-clone/)
+
 ## Coded Solution (Output)
 
 The final result generated with HTML and CSS:  
