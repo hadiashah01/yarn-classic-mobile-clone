@@ -1,7 +1,7 @@
 
 # Yarn Mobile Layout Clone
 
-This project is a mobile-first clone of a modern web interface, designed to practice responsive layouts, Flexbox, and structured UI design. The focus was on building a clean, functional, and scalable layout suitable for small screens.
+This project is a mobile-first clone of a modern web interface, designed to practice mobile-first responsive layout, Flexbox, and structured UI design. The focus was on building a clean, functional, and scalable layout suitable for small screens.
 
 ## Project Inspiration
 
